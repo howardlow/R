@@ -1,4 +1,4 @@
-The purpose of this project is to demostrate the following:
+This project demostrates the understanding of data visualization life cycle based on the following steps:
 1. discovering the structure of the dataset
 2. developing a cleaning strategy
 3. developing a missing value strategy
