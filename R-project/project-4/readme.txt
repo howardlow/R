@@ -1,0 +1,1 @@
+This project performs bootstrapping, Linear and Quadratic Discriminant Analysis

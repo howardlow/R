@@ -1,0 +1,1 @@
+This project performs Random Forest and Decision Tree with Pruning and Boosting. 
